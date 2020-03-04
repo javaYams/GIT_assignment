@@ -1,3 +1,4 @@
+New line added by Mitch for the assignment :)
 Matt is adding nifty new content!
 This is the initial contents
 of the first file that
